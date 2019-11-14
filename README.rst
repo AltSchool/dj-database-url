@@ -1,4 +1,4 @@
-DJ-Database-URL
+[DEPRECATED] DJ-Database-URL
 ~~~~~~~~~~~~~~~
 
 .. image:: https://secure.travis-ci.org/kennethreitz/dj-database-url.png?branch=master
